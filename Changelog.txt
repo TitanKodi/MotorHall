@@ -1,0 +1,14 @@
+## [0.0.1] - 2017-10
+Initial release
+## [0.0.2] - 2017-11
+Update
+## [0.0.3] - 2017-12
+Update
+## [0.0.4] - 2018-01
+Update + Repository Change
+## [0.0.5] - 2018-02
+Update
+## [0.0.6] - 2018-03
+Update added artists
+## [0.0.7] - 2018-08
+Update added artists

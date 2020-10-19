@@ -1,0 +1,5 @@
+<settings>
+  <category label="General"> 
+    <setting id="start" label="Activar diálogo al entrar al addon" type="bool" default="true" />
+  </category>
+</settings>
